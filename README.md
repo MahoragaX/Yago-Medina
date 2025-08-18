@@ -7,4 +7,4 @@ Estou focando meus estudos em Python, SQL e os fundamentos de Inteligência Arti
 
 Meu objetivo é crescer na área de dados, combinando minha experiência prática com novas habilidades técnicas.
 
-Conecte-se comigo no !(https://www.linkedin.com/in/yago-medina-dados/)
+Conecte-se comigo no Linkedin - https://www.linkedin.com/in/yago-medina-dados/
