@@ -23,6 +23,5 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 ## 🚀 Meu Principal Projeto
 
 ### [Criador de Fichas de Criatura para D&D 5e](link-para-o-seu-repositorio)
-<a href="link-para-o-seu-repositorio"><img src="https://i.imgur.com/URL_DA_IMAGEM_DO_SEU_PROJETO.png" alt="Imagem do Projeto" width="500"/></a>
 
 Uma ferramenta web completa para criar, salvar e importar fichas de criaturas, utilizando JavaScript puro e integração com a API do Google AI para análise de PDFs.
