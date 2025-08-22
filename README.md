@@ -1,26 +1,28 @@
-# Criador de Fichas de Criatura (Homebrew) para D&D 5e
+# Olá! 👋 Eu sou Yago Medina
 
-Este é um projeto de uma ferramenta web desenvolvida para facilitar a criação, gestão e exportação de fichas de criaturas e NPCs para o sistema de D&D 5ª Edição. A aplicação foi criada como um projeto prático para aplicar e demonstrar conhecimentos em desenvolvimento web front-end.
+Sou um profissional com experiência em operações e análise de dados, e atualmente estou aprofundando meus conhecimentos na graduação de Análise e Desenvolvimento de Sistemas. Minha paixão é usar dados para encontrar padrões, otimizar processos e gerar insights que ajudem na tomada de decisões.
 
-## 🎯 Objetivo
+- 🔭 Atualmente trabalho com análise de dados de telemetria, utilizando **Power BI** e **Excel**.
+- 🌱 Estou focando meus estudos em **Python**, **SQL** e os fundamentos de **Inteligência Artificial** e **Machine Learning**.
+- 🎯 Meu objetivo é crescer na área de dados, combinando minha experiência prática com novas habilidades técnicas.
+- 🚀 Meu projeto principal é o **[Criador de Fichas de RPG](link-para-o-seu-repositorio)**, uma ferramenta web para mestres de D&D.
+- 📫 Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/yago-medina-dados/)**!
 
-O objetivo principal é fornecer uma interface intuitiva e automatizada para mestres de RPG, permitindo que criem conteúdo homebrew de forma rápida, com um visual fiel aos livros oficiais, e que possam salvar e reutilizar as suas criações facilmente.
+## 🛠️ Tecnologias e Ferramentas
 
-## ✨ Funcionalidades Principais
+Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 
-* **Editor Completo:** Campos para todos os atributos, habilidades, ações, reações, etc.
-* **Cálculos Automáticos:** Modificadores de habilidade, bónus de proficiência e percepção passiva são calculados em tempo real.
-* **Biblioteca de Criaturas:** Salve, carregue, clone e exclua criaturas, com sistema de pesquisa e filtros por tags.
-* **Biblioteca de Habilidades:** Crie bibliotecas reutilizáveis para ações, reações e habilidades especiais.
-* **Importação com IA:** Utilize Inteligência Artificial para extrair os dados de uma criatura a partir de um ficheiro PDF e preencher a ficha automaticamente.
-* **Exportação para HTML:** Exporte as fichas como ficheiros HTML independentes e estilizados.
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Meu Principal Projeto
 
-Este projeto foi construído inteiramente com tecnologias front-end padrão, sem a necessidade de um back-end complexo.
+### [Criador de Fichas de Criatura para D&D 5e](link-para-o-seu-repositorio)
+<a href="link-para-o-seu-repositorio"><img src="https://i.imgur.com/URL_DA_IMAGEM_DO_SEU_PROJETO.png" alt="Imagem do Projeto" width="500"/></a>
 
-* **HTML5:** Para a estrutura semântica de toda a aplicação.
-* **CSS3 (com Tailwind CSS):** Para a estilização e criação de um layout responsivo e moderno.
-* **JavaScript (ES6+):** Para toda a lógica da aplicação, manipulação do DOM, cálculos automáticos e interatividade.
-* **Firebase (Firestore):** Utilizado como uma base de dados NoSQL na nuvem para salvar as criaturas e as bibliotecas de habilidades de forma persistente.
-* **API do Google AI (Gemini):** Para a funcionalidade de análise e extração de dados de ficheiros PDF.
+Uma ferramenta web completa para criar, salvar e importar fichas de criaturas, utilizando JavaScript puro e integração com a API do Google AI para análise de PDFs.
