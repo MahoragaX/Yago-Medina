@@ -5,7 +5,7 @@ Sou um profissional com experiência em operações e análise de dados, e atual
 - 🔭 Atualmente trabalho com análise de dados de telemetria, utilizando **Power BI** e **Excel**.
 - 🌱 Estou focando meus estudos em **Python**, **SQL** e os fundamentos de **Inteligência Artificial** e **Machine Learning**.
 - 🎯 Meu objetivo é crescer na área de dados, combinando minha experiência prática com novas habilidades técnicas.
-- 🚀 Meu projeto principal é o **[Criador de Fichas de RPG](link-para-o-seu-repositorio)**, uma ferramenta web para mestres de D&D.
+- 🚀 Meu projeto principal é o **[Criador de Fichas de RPG](https://github.com/MahoragaX/Fichas-de-criaturas-de-D-D-5e)**, uma ferramenta web para mestres de D&D.
 - 📫 Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/yago-medina-dados/)**!
 
 ## 🛠️ Tecnologias e Ferramentas
